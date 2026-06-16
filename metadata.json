@@ -1,0 +1,6 @@
+{
+  "name": "Synapse Hire",
+  "description": "Synapse Hire is an AI-powered talent intelligence platform that ranks candidates semantically beyond rigid keyword matching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
