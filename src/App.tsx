@@ -458,7 +458,7 @@ export default function App() {
         </div>
 
         {/* Humble footer */}
-        <div className="absolute bottom-6 text-[10px] text-slate-600 font-mono tracking-widest uppercase">
+        <div className="absolute bottom-6 text-[10px] text-slate-400 font-mono tracking-widest uppercase">
           Redrob AI Discovery Challenge • Version 2026.1
         </div>
       </div>
