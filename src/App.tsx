@@ -451,7 +451,7 @@ export default function App() {
               onClick={() => setFlowStep("config")}
               className="rounded-full bg-white hover:bg-slate-100 text-slate-950 font-bold px-8 py-3.5 text-sm tracking-wide shadow-2xl transition-transform hover:scale-105 duration-200 cursor-pointer flex items-center justify-center gap-2 mx-auto"
             >
-              Get Started
+              Analyze Resume
               <ChevronRight className="h-4 w-4" />
             </button>
           </motion.div>
