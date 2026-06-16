@@ -5,6 +5,8 @@
 Synapse Hire is an AI-powered candidate ranking platform built for the **:contentReference[oaicite:0]{index=0}**.  
 It reimagines hiring by ranking candidates the way an experienced recruiter would — using semantic understanding, behavioral signals, and trust-aware scoring instead of naive keyword matching.
 
+Have a try 👉 https://synapse-hire.vercel.app 👈
+
 ---
 
 ## Problem Statement
